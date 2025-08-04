@@ -1,4 +1,4 @@
-       IDENTIFICATION DIVISION.
+kkkkkkkkkkk       IDENTIFICATION DIVISION.
        PROGRAM-ID. SquareCalculator.
 
        DATA DIVISION.
